@@ -1,2 +1,2 @@
-# project-on-html-and-css-basicc
+# project-on-html-and-css-basic
 make resume use html css
